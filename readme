@@ -1,0 +1,5 @@
+this requires genanki,janome, and argostranslate.
+all of these you can just pip install and then run the program
+eventually I'd like to add furigana, proper sentence parsing,the ability to include multiple sentences in the apkg it creates, and other convience features.
+If you'd like to you can submit a pull request and modify this however you'd like
+sorry it's so barebones it was made in a night
