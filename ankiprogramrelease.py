@@ -61,8 +61,8 @@ def translate_sentence():
                     templates=[
                         {
                             "name": "Card 1",
-                            "qfmt": "{{Japanese}}",
-                            "afmt": "{{FrontSide}}<hr id='answer'>{{English}}"
+                            "qfmt": '<div style="text-align:center;"><br><span style="font-size: 50px; "> {{Japanese}} </span></div>',
+                            "afmt": '<div style="text-align:center;"><br><span style="font-size: 50px; ">{{FrontSide}}<hr id="answer">{{English}}</span></div>'
                         }
                     ]
                 ),
